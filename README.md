@@ -9,6 +9,8 @@
 
 🤝 I'm open to collaborating on Machine Learning, Deep Learning
 
+💬 You may also ask me about stocks and bonds investments
+
 
 
 

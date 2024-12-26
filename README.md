@@ -13,7 +13,8 @@
 
 
 ### Badges:
-[![aws-certified-ai-practitioner](https://github.com/itayshap/Badges/blob/main/aws-certified-ai-practitioner.png)](https://www.credly.com/badges/4cb9c25a-1070-4e6a-98b9-0fb322896851/public_url)
+[![aws certified ai practitioner](https://github.com/itayshap/Badges/blob/main/aws-certified-ai-practitioner.png)](https://www.credly.com/badges/4cb9c25a-1070-4e6a-98b9-0fb322896851/public_url)
+
 
 <!--
 **itayshap/itayshap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
